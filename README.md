@@ -8,3 +8,6 @@ Save time on project settup by using this template(web starter template)
 
 Python Virtual Environment: Pipenv
 Python: python 3.8
+
+![index](landing.png)
+![about page](about.png)
